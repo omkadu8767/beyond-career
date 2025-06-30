@@ -1,7 +1,6 @@
 # Beyond Career – React + Vite Web App
 
-![Beyond Career Banner](./public/banner.png)
-
+![Banner](https://raw.githubusercontent.com/omkadu8767/beyond-career/main/public/banner.png)
 ## Overview
 
 **Beyond Career** is a modern, responsive web application built with React and Vite, designed to empower students and professionals with career guidance, mentorship, and internship opportunities.  
@@ -20,7 +19,7 @@ This documentation provides a comprehensive overview of the project’s design r
 - **User Experience Considerations:**  
   The UI is fully responsive, adapting seamlessly to all devices. Subtle animations (fade-in, bounce) enhance interactivity without overwhelming users. Accessibility best practices are followed, including semantic HTML and sufficient color contrast, to ensure inclusivity for all users.
 
-![UI Screenshot](./public/ui.png)
+![UI Screenshot](https://raw.githubusercontent.com/omkadu8767/beyond-career/main/public/UI.png)
 
 ---
 
@@ -67,9 +66,12 @@ This documentation provides a comprehensive overview of the project’s design r
 
 ## 📸 Screenshots
 
- ![Home Page](./public/about.png)
-![Contact Form](./public/contactform.png)
-![Services](./public/services.png)
+ ![Home Page](https://raw.githubusercontent.com/omkadu8767/beyond-career/main/public/about.png)
+![Contact Form](https://raw.githubusercontent.com/omkadu8767/beyond-career/main/public/contactform.png)
+![Services](https://raw.githubusercontent.com/omkadu8767/beyond-career/main/public/services.png)
+
+## Contact Form Response
+![Contact Form Response](https://raw.githubusercontent.com/omkadu8767/beyond-career/main/public/response.png)
 
 
 ---
